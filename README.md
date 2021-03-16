@@ -1,7 +1,7 @@
-mlops_main
+Wafer MLOps
 ==============================
 
-its a wafer project using mlops
+Wafer ML project demonstrating full MLOps cycle
 
 Project Organization
 ------------
